@@ -20,7 +20,8 @@ export default class MenuPrincipal implements Menu {
         console.log(`----------------------`)
         console.log(`| 5 - Listar acomodações`)
         console.log(`| 6 - Vincular acomodação`)
-        console.log(`| 7 - Cancelar acomodação`)
+        console.log(`| 7 - Listar cliente acomodados`)
+        console.log(`| 8 - Cancelar acomodação`)
 
         console.log(`----------------------`)
         console.log(`****************************`)
